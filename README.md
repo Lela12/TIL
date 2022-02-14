@@ -1,2 +1,6 @@
-# TIL
-Today I Learned
+# Today I Learned
+#### 💡 하루동안 학습한 내용과 느낀점, 새로 알게 된 것들을 기록으로 남깁니다.
+<br>
+
+## React
+- JSX, 리렌더링, 이벤트 핸들러
