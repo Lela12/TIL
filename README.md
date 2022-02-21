@@ -8,3 +8,4 @@
 - [공식문서 (JSX, Props/ Component, State/LifeCycle, React.component, 이벤트)](React/220216.md)
 - [공식문서 (조건부 렌더링, List, Form, Hooks, Composition, HOC, Memorization, context, Portal, Render Props, PropTypes, Reconciliation)](React/220217.md)
 - [Next.js (CSR과 SSR차이점)](React/220218.md)
+- [Next.js (CSR, SSR을 통해 lanches data를 fetching해보기, SSG vs SSR)](React/220218.md)
